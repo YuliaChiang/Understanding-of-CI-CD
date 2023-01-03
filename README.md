@@ -1,3 +1,5 @@
+# Understanding of CI/CD
+
 **In business or technical terms describe your understanding of continuous integration and continuous delivery (CI/CD)?**
 
 CI/CD is the means to regularly deliver apps to end users by automating each stage of the app development. This ensures that when the app gets developed, it can be safely deployed. CI is a concept which allows work simultaneously done by different developers to be merged back into a main branch of a repository. This functionality allows errors and security issues to be quickly identified and resolved earlier in the software development lifecycle.
